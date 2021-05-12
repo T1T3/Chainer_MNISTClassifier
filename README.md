@@ -1,0 +1,2 @@
+# Chainer_MNISTClassifier
+base
